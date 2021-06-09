@@ -1,7 +1,7 @@
 name: wuzhi04-sync
 on:
   schedule:
-    - cron: '14 */3 * * *'
+    - cron: '47 */3 * * *'
   workflow_dispatch:
   watch:
     types: started
