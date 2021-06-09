@@ -23,6 +23,6 @@ jobs:
         if: env.PAT
         with:
           source_repo: "https://github.com/wuzhi04/MyActions.git"
-          source_branch: "master"
+          source_branch: "main"
           destination_branch: "wuzhi04"
           github_token: ${{ secrets.PAT }}
