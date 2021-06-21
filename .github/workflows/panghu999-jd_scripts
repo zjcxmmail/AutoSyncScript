@@ -6,7 +6,7 @@ on:
   watch:
     types: started
   repository_dispatch:
-    types: sync-anghu999-jd_scripts-JavaScript
+    types: sync-panghu999-jd_scripts-JavaScript
 jobs:
   repo-sync:
     env:
